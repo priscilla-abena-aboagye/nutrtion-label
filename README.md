@@ -10,7 +10,7 @@ A web-based nutrtion label built using CSS and HTML. The design aims to provide 
 - ---
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML: For the structure of the website
+- CSS: For styling and desgning of the website
   
   ---
